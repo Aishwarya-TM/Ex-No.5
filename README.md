@@ -292,3 +292,6 @@ df1
 ![Screenshot (51)](https://user-images.githubusercontent.com/127846109/232111147-dce33617-fb99-43dc-b431-11786986942f.png)
 ## Binary Encoder:
 ![Screenshot (52)](https://user-images.githubusercontent.com/127846109/232111184-7c25fb84-c27e-4dd2-be9a-5676b3220c6d.png)
+## RESULT:
+Thus the Feature Generation for the given data set is executed and
+output was verified successfully
